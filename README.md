@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @boluwa111
+- 👋 Hi, I’m Giwa Samuel; A chemical engineer and a python fanatic. I also work well with MATLAB
 - 👀 I’m interested in Data Science project
 - 🌱 I’m currently learning data Science/machine learning
-- 💞️ I’m looking to collaborate on any data science/machine learning project
+- 💞️ I’m looking to collaborate on any data science/machine learning project; Matlab project is not excluded.  
 - 📫 You can reach me on Giwasamuel@gmail.com
 
 <!---
