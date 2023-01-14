@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science project
 - 🌱 I’m currently learning Data Science/machine learning
 - 💞️ I’m looking to collaborate on any data science/machine learning project; Matlab project is not excluded.  
-- 📫 You can reach me on Giwasamuel@gmail.com
+- 📫 You can reach me on samuelgiwa41@gmail.com
 
 <!---
 boluwa111/boluwa111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
